@@ -1,5 +1,5 @@
 <img src="imgs/vclogo-light-mode.png#gh-light-mode-only">
-<img src="imgs/vclogo-dark-mode.png#gh-dark-mode-only"> @Something
+<img src="imgs/vclogo-dark-mode.png#gh-dark-mode-only"> @Something @true
 
 ## Veracode GitHub Workflow Integration 
 
